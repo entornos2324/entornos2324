@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Static Badge](https://img.shields.io/badge/twitch)
+![Static Badge](https://img.shields.io/badge/twitch-8a2be2)
+
